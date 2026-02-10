@@ -9,7 +9,7 @@ AI Code Review Assistant is an AI-powered tool that analyzes source code and pro
 ## Key Features
 - AI-generated code review feedback for submitted code snippets
 - Suggestions related to readability, best practices, and potential issues
-- Code optimization submissions for better time and space complexity.
+- Code optimization suggestions for better time and space complexity.
 - Prompt-driven analysis tailored for developer-oriented feedback
 - Clean and minimal interface for submitting and reviewing code
 - Secure handling of API keys using environment variables
